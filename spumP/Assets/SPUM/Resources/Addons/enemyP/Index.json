@@ -1,0 +1,265 @@
+{
+    "Name": "enemyP",
+    "Path": "Assets/SPUM/Resources/Addons",
+    "Version": "",
+    "CreationDate": "2026-03-26 18:09:37",
+    "SpumAnimationData": [],
+    "SpumTextureData": [
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Head",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body"
+        },
+        {
+            "Name": "kraken_body_v02",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v02"
+        },
+        {
+            "Name": "kraken_body_v02",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Head",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v02"
+        },
+        {
+            "Name": "kraken_body_v02",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v02"
+        },
+        {
+            "Name": "kraken_body_v02",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v02"
+        },
+        {
+            "Name": "kraken_body_v02",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v02"
+        },
+        {
+            "Name": "kraken_body_v02",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v02"
+        },
+        {
+            "Name": "kraken_body_v03",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v03"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Head",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "no_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/no_body"
+        },
+        {
+            "Name": "no_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/no_body"
+        },
+        {
+            "Name": "no_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/no_body"
+        },
+        {
+            "Name": "no_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/no_body"
+        },
+        {
+            "Name": "no_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/no_body"
+        },
+        {
+            "Name": "no_body",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Head",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/no_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Cloth",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/2_Cloth/kraken_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Cloth",
+            "SubType": "Left",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/2_Cloth/kraken_body"
+        },
+        {
+            "Name": "kraken_body",
+            "UnitType": "Unit",
+            "PartType": "Cloth",
+            "SubType": "Right",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/2_Cloth/kraken_body"
+        },
+        {
+            "Name": "kraken1",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "kraken1_0",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/kraken1"
+        },
+        {
+            "Name": "resize_v01",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "resize_v01",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/resize_v01"
+        },
+        {
+            "Name": "temp",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "temp",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/temp"
+        },
+        {
+            "Name": "zmfkzps1",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "zmfkzps1_0",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/zmfkzps1"
+        }
+    ]
+}
