@@ -2,7 +2,7 @@
     "Name": "enemyP",
     "Path": "Assets/SPUM/Resources/Addons",
     "Version": "",
-    "CreationDate": "2026-03-27 18:04:45",
+    "CreationDate": "2026-03-30 15:43:38",
     "SpumAnimationData": [],
     "SpumTextureData": [
         {
@@ -113,23 +113,7 @@
             "Name": "kraken_body_v04",
             "UnitType": "Unit",
             "PartType": "Body",
-            "SubType": "Foot_R",
-            "PartSubType": "",
-            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
-        },
-        {
-            "Name": "kraken_body_v04",
-            "UnitType": "Unit",
-            "PartType": "Body",
             "SubType": "Arm_L",
-            "PartSubType": "",
-            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
-        },
-        {
-            "Name": "kraken_body_v04",
-            "UnitType": "Unit",
-            "PartType": "Body",
-            "SubType": "Head",
             "PartSubType": "",
             "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
         },
@@ -145,6 +129,14 @@
             "Name": "kraken_body_v04",
             "UnitType": "Unit",
             "PartType": "Body",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
             "SubType": "Foot_L",
             "PartSubType": "",
             "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
@@ -153,7 +145,15 @@
             "Name": "kraken_body_v04",
             "UnitType": "Unit",
             "PartType": "Body",
-            "SubType": "Body",
+            "SubType": "Foot_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
+        },
+        {
+            "Name": "kraken_body_v04",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Head",
             "PartSubType": "",
             "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/kraken_body_v04"
         },
@@ -204,6 +204,54 @@
             "SubType": "Head",
             "PartSubType": "",
             "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/no_body"
+        },
+        {
+            "Name": "walkingfish_leg",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/walkingfish_leg"
+        },
+        {
+            "Name": "walkingfish_leg",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Arm_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/walkingfish_leg"
+        },
+        {
+            "Name": "walkingfish_leg",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/walkingfish_leg"
+        },
+        {
+            "Name": "walkingfish_leg",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_L",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/walkingfish_leg"
+        },
+        {
+            "Name": "walkingfish_leg",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Foot_R",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/walkingfish_leg"
+        },
+        {
+            "Name": "walkingfish_leg",
+            "UnitType": "Unit",
+            "PartType": "Body",
+            "SubType": "Head",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/1_Body/walkingfish_leg"
         },
         {
             "Name": "kraken_body",
@@ -230,12 +278,100 @@
             "Path": "Addons/enemyP/0_Unit/0_Sprite/2_Cloth/kraken_body"
         },
         {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Cloth",
+            "SubType": "Right",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/2_Cloth/queenLegFish_leg"
+        },
+        {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Cloth",
+            "SubType": "Left",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/2_Cloth/queenLegFish_leg"
+        },
+        {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Cloth",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/2_Cloth/queenLegFish_leg"
+        },
+        {
+            "Name": "ghostLady_Foot",
+            "UnitType": "Unit",
+            "PartType": "Pant",
+            "SubType": "Right",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/3_Pant/ghostLady_Foot"
+        },
+        {
+            "Name": "ghostLady_Foot",
+            "UnitType": "Unit",
+            "PartType": "Pant",
+            "SubType": "Left",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/3_Pant/ghostLady_Foot"
+        },
+        {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Pant",
+            "SubType": "Left",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/3_Pant/queenLegFish_leg"
+        },
+        {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Pant",
+            "SubType": "Right",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/3_Pant/queenLegFish_leg"
+        },
+        {
             "Name": "BigSeaSnake",
             "UnitType": "Unit",
             "PartType": "Helmet",
             "SubType": "BigSeaSnake",
             "PartSubType": "",
             "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/BigSeaSnake"
+        },
+        {
+            "Name": "gargoyle",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "gargoyle",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/gargoyle"
+        },
+        {
+            "Name": "ghost",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "ghost",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/ghost"
+        },
+        {
+            "Name": "ghostKeeper",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "ghostKeeper",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/ghostKeeper"
+        },
+        {
+            "Name": "ghostLady_body",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "ghostLady_body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/ghostLady_body"
         },
         {
             "Name": "kingKraken",
@@ -254,12 +390,36 @@
             "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/kingmimic"
         },
         {
+            "Name": "LordGorgoyle",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "LordGorgoyle",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/LordGorgoyle"
+        },
+        {
             "Name": "mimic",
             "UnitType": "Unit",
             "PartType": "Helmet",
             "SubType": "mimic",
             "PartSubType": "",
             "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/mimic"
+        },
+        {
+            "Name": "notGhost",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "notGhost",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/notGhost"
+        },
+        {
+            "Name": "queenLegFish_head",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "queenLegFish_head",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/queenLegFish_head"
         },
         {
             "Name": "resize_v01",
@@ -294,12 +454,44 @@
             "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/temp"
         },
         {
+            "Name": "walkingfish_head",
+            "UnitType": "Unit",
+            "PartType": "Helmet",
+            "SubType": "walkingfish_head",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/walkingfish_head"
+        },
+        {
             "Name": "zldtmffkdla",
             "UnitType": "Unit",
             "PartType": "Helmet",
             "SubType": "zldtmffkdla",
             "PartSubType": "",
             "Path": "Addons/enemyP/0_Unit/0_Sprite/4_Helmet/zldtmffkdla"
+        },
+        {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Armor",
+            "SubType": "Right",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/5_Armor/queenLegFish_leg"
+        },
+        {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Armor",
+            "SubType": "Body",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/5_Armor/queenLegFish_leg"
+        },
+        {
+            "Name": "queenLegFish_leg",
+            "UnitType": "Unit",
+            "PartType": "Armor",
+            "SubType": "Left",
+            "PartSubType": "",
+            "Path": "Addons/enemyP/0_Unit/0_Sprite/5_Armor/queenLegFish_leg"
         }
     ]
 }

@@ -3623,7 +3623,7 @@ GameObject:
   - component: {fileID: 1496103411288697846}
   - component: {fileID: 8582929724277343327}
   m_Layer: 5
-  m_Name: 40004_BossUnit
+  m_Name: 40202_BossUnit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 8010781103629535619}
   - component: {fileID: 5326946788282260377}
   m_Layer: 5
-  m_Name: 40006_BossUnit
+  m_Name: 40205_BossUnit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
